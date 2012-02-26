@@ -1,8 +1,18 @@
 Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: AWS Core
-Bundle-SymbolicName: com.slepp.aws.core
-Bundle-Version: 1.0.0.qualifier
-Bundle-Vendor: Slepp
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: com.slepp.aws.log;version=0.0.1.SNAPSHOT
+Private-Package: com.slepp.aws.log.impl;version=0.0.1.SNAPSHOT
+Ignore-Package: com.slepp.aws.log.impl
 Bundle-ActivationPolicy: lazy
+Tool: Bnd-0.0.160
+Bundle-Name: Automated Watering System
+Created-By: 1.6.0_22 (Sun Microsystems Inc.)
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Vendor: Slepp
+Bundle-Version: 0.0.1.SNAPSHOT
+Bnd-LastModified: 1330282898546
+Bundle-ManifestVersion: 2
+Import-Package: com.slepp.aws.log;version=0.0.1.SNAPSHOT
+Include-Resource: src/main/resources
+Bundle-SymbolicName: com.slepp.aws.log
+Originally-Created-By: 1.6.0_22 (Sun Microsystems Inc.)
+

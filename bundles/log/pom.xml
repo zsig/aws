@@ -2,10 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.slepp.aws</groupId>
   <artifactId>log</artifactId>
   <name>Automated Watering System</name>
-  <version>0.0.1-SNAPSHOT</version>
 
   <!-- for packaging as an OSGi bundle, we use the maven-bundle-plugin -->
   

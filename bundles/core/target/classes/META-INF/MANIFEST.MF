@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: AWS
-Bundle-SymbolicName: com.slepp.aws
-Bundle-Version: 1.0.0.qualifier
-Bundle-Vendor: Slepp
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
-Bundle-ActivationPolicy: lazy
